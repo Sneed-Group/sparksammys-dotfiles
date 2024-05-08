@@ -1,0 +1,684 @@
+[196035.933] _XSERVTransSocketUNIXCreateListener: ...SocketCreateListener() failed
+[196035.933] _XSERVTransMakeAllCOTSServerListeners: server already running
+[196035.942] (--) Log file renamed from "/home/sbaka/.local/share/xorg/Xorg.pid-261447.log" to "/home/sbaka/.local/share/xorg/Xorg.1.log"
+[196035.942] 
+X.Org X Server 1.21.1.11
+X Protocol Version 11, Revision 0
+[196035.942] Current Operating System: Linux natascha 6.8.0-31-generic #31-Ubuntu SMP PREEMPT_DYNAMIC Sat Apr 20 00:40:06 UTC 2024 x86_64
+[196035.942] Kernel command line: BOOT_IMAGE=/boot/vmlinuz-6.8.0-31-generic root=UUID=817cf04e-dc4a-4585-b877-29253edc382e ro quiet splash vt.handoff=7
+[196035.942] xorg-server 2:21.1.12-1ubuntu1 (For technical support please see http://www.ubuntu.com/support) 
+[196035.942] Current version of pixman: 0.42.2
+[196035.942] 	Before reporting problems, check http://wiki.x.org
+	to make sure that you have the latest version.
+[196035.942] Markers: (--) probed, (**) from config file, (==) default setting,
+	(++) from command line, (!!) notice, (II) informational,
+	(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+[196035.942] (==) Log file: "/home/sbaka/.local/share/xorg/Xorg.1.log", Time: Tue May  7 15:15:55 2024
+[196035.942] (==) Using system config directory "/usr/share/X11/xorg.conf.d"
+[196035.942] (==) No Layout section.  Using the first Screen section.
+[196035.942] (==) No screen section available. Using defaults.
+[196035.942] (**) |-->Screen "Default Screen Section" (0)
+[196035.942] (**) |   |-->Monitor "<default monitor>"
+[196035.942] (==) No monitor specified for screen "Default Screen Section".
+	Using a default monitor configuration.
+[196035.942] (**) Allowing byte-swapped clients
+[196035.942] (==) Automatically adding devices
+[196035.942] (==) Automatically enabling devices
+[196035.942] (==) Automatically adding GPU devices
+[196035.942] (==) Automatically binding GPU devices
+[196035.942] (==) Max clients allowed: 256, resource mask: 0x1fffff
+[196035.942] (WW) The directory "/usr/share/fonts/X11/cyrillic" does not exist.
+[196035.942] 	Entry deleted from font path.
+[196035.942] (WW) The directory "/usr/share/fonts/X11/100dpi/" does not exist.
+[196035.942] 	Entry deleted from font path.
+[196035.942] (WW) The directory "/usr/share/fonts/X11/75dpi/" does not exist.
+[196035.942] 	Entry deleted from font path.
+[196035.942] (WW) The directory "/usr/share/fonts/X11/100dpi" does not exist.
+[196035.942] 	Entry deleted from font path.
+[196035.942] (WW) The directory "/usr/share/fonts/X11/75dpi" does not exist.
+[196035.942] 	Entry deleted from font path.
+[196035.942] (==) FontPath set to:
+	/usr/share/fonts/X11/misc,
+	/usr/share/fonts/X11/Type1,
+	built-ins
+[196035.942] (==) ModulePath set to "/usr/lib/xorg/modules"
+[196035.942] (II) The server relies on udev to provide the list of input devices.
+	If no devices become available, reconfigure udev or disable AutoAddDevices.
+[196035.942] (II) Loader magic: 0x5832955fb020
+[196035.942] (II) Module ABI versions:
+[196035.942] 	X.Org ANSI C Emulation: 0.4
+[196035.942] 	X.Org Video Driver: 25.2
+[196035.942] 	X.Org XInput driver : 24.4
+[196035.942] 	X.Org Server Extension : 10.0
+[196035.943] (++) using VT number 2
+
+[196035.943] (II) systemd-logind: took control of session /org/freedesktop/login1/session/_3432
+[196035.944] (II) xfree86: Adding drm device (/dev/dri/card0)
+[196035.944] (II) Platform probe for /sys/devices/pci0000:00/0000:00:01.0/0000:01:00.0/drm/card0
+[196035.944] (II) systemd-logind: got fd for /dev/dri/card0 226:0 fd 15 paused 0
+[196035.945] (**) OutputClass "nvidia" ModulePath extended to "/usr/lib/x86_64-linux-gnu/nvidia/xorg,/usr/lib/xorg/modules"
+[196035.945] (--) PCI:*(1@0:0:0) 10de:2504:1043:881d rev 161, Mem @ 0x82000000/16777216, 0x4000000000/17179869184, 0x4400000000/33554432, I/O @ 0x00006000/128, BIOS @ 0x????????/524288
+[196035.945] (II) LoadModule: "glx"
+[196035.945] (II) Loading /usr/lib/xorg/modules/extensions/libglx.so
+[196035.945] (II) Module glx: vendor="X.Org Foundation"
+[196035.945] 	compiled for 1.21.1.11, module version = 1.0.0
+[196035.945] 	ABI class: X.Org Server Extension, version 10.0
+[196035.945] (II) Applying OutputClass "nvidia" to /dev/dri/card0
+[196035.945] 	loading driver: nvidia
+[196036.987] (==) Matched nvidia as autoconfigured driver 0
+[196036.987] (==) Matched nouveau as autoconfigured driver 1
+[196036.987] (==) Matched modesetting as autoconfigured driver 2
+[196036.987] (==) Matched fbdev as autoconfigured driver 3
+[196036.987] (==) Matched vesa as autoconfigured driver 4
+[196036.987] (==) Assigned the driver to the xf86ConfigLayout
+[196036.987] (II) LoadModule: "nvidia"
+[196036.987] (II) Loading /usr/lib/x86_64-linux-gnu/nvidia/xorg/nvidia_drv.so
+[196036.988] (II) Module nvidia: vendor="NVIDIA Corporation"
+[196036.988] 	compiled for 1.6.99.901, module version = 1.0.0
+[196036.988] 	Module class: X.Org Video Driver
+[196036.988] (II) LoadModule: "nouveau"
+[196036.988] (II) Loading /usr/lib/xorg/modules/drivers/nouveau_drv.so
+[196036.989] (II) Module nouveau: vendor="X.Org Foundation"
+[196036.989] 	compiled for 1.21.1.3, module version = 1.0.17
+[196036.989] 	Module class: X.Org Video Driver
+[196036.989] 	ABI class: X.Org Video Driver, version 25.2
+[196036.989] (II) LoadModule: "modesetting"
+[196036.989] (II) Loading /usr/lib/xorg/modules/drivers/modesetting_drv.so
+[196036.989] (II) Module modesetting: vendor="X.Org Foundation"
+[196036.989] 	compiled for 1.21.1.11, module version = 1.21.1
+[196036.989] 	Module class: X.Org Video Driver
+[196036.989] 	ABI class: X.Org Video Driver, version 25.2
+[196036.989] (II) LoadModule: "fbdev"
+[196036.989] (II) Loading /usr/lib/xorg/modules/drivers/fbdev_drv.so
+[196036.989] (II) Module fbdev: vendor="X.Org Foundation"
+[196036.989] 	compiled for 1.21.1.11, module version = 0.5.0
+[196036.989] 	Module class: X.Org Video Driver
+[196036.989] 	ABI class: X.Org Video Driver, version 25.2
+[196036.989] (II) LoadModule: "vesa"
+[196036.990] (II) Loading /usr/lib/xorg/modules/drivers/vesa_drv.so
+[196036.990] (II) Module vesa: vendor="X.Org Foundation"
+[196036.990] 	compiled for 1.21.1.7, module version = 2.6.0
+[196036.990] 	Module class: X.Org Video Driver
+[196036.990] 	ABI class: X.Org Video Driver, version 25.2
+[196036.990] (II) NVIDIA dlloader X Driver  535.171.04  Tue Mar 19 20:33:21 UTC 2024
+[196036.990] (II) NVIDIA Unified Driver for all Supported NVIDIA GPUs
+[196036.990] (II) NOUVEAU driver Date:   Sat Jan 23 12:24:42 2021 -0500
+[196036.990] (II) NOUVEAU driver for NVIDIA chipset families :
+[196036.990] 	RIVA TNT            (NV04)
+[196036.990] 	RIVA TNT2           (NV05)
+[196036.990] 	GeForce 256         (NV10)
+[196036.990] 	GeForce 2           (NV11, NV15)
+[196036.990] 	GeForce 4MX         (NV17, NV18)
+[196036.990] 	GeForce 3           (NV20)
+[196036.990] 	GeForce 4Ti         (NV25, NV28)
+[196036.990] 	GeForce FX          (NV3x)
+[196036.990] 	GeForce 6           (NV4x)
+[196036.990] 	GeForce 7           (G7x)
+[196036.990] 	GeForce 8           (G8x)
+[196036.990] 	GeForce 9           (G9x)
+[196036.991] 	GeForce GTX 2xx/3xx (GT2xx)
+[196036.991] 	GeForce GTX 4xx/5xx (GFxxx)
+[196036.991] 	GeForce GTX 6xx/7xx (GKxxx)
+[196036.991] 	GeForce GTX 9xx     (GMxxx)
+[196036.991] 	GeForce GTX 10xx    (GPxxx)
+[196036.991] (II) modesetting: Driver for Modesetting Kernel Drivers: kms
+[196036.991] (II) FBDEV: driver for framebuffer: fbdev
+[196036.991] (II) VESA: driver for VESA chipsets: vesa
+[196036.991] xf86EnableIO: failed to enable I/O ports 0000-03ff (Operation not permitted)
+[196036.991] (II) systemd-logind: releasing fd for 226:0
+[196037.024] (II) Loading sub module "fb"
+[196037.024] (II) LoadModule: "fb"
+[196037.024] (II) Module "fb" already built-in
+[196037.024] (II) Loading sub module "wfb"
+[196037.024] (II) LoadModule: "wfb"
+[196037.024] (II) Loading /usr/lib/xorg/modules/libwfb.so
+[196037.024] (II) Module wfb: vendor="X.Org Foundation"
+[196037.024] 	compiled for 1.21.1.11, module version = 1.0.0
+[196037.024] 	ABI class: X.Org ANSI C Emulation, version 0.4
+[196037.024] (WW) Falling back to old probe method for modesetting
+[196037.049] (WW) Falling back to old probe method for fbdev
+[196037.049] (II) Loading sub module "fbdevhw"
+[196037.049] (II) LoadModule: "fbdevhw"
+[196037.049] (II) Loading /usr/lib/xorg/modules/libfbdevhw.so
+[196037.049] (II) Module fbdevhw: vendor="X.Org Foundation"
+[196037.049] 	compiled for 1.21.1.11, module version = 0.0.2
+[196037.049] 	ABI class: X.Org Video Driver, version 25.2
+[196037.049] (EE) open /dev/fb0: No such file or directory
+[196037.049] (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+[196037.049] (II) NVIDIA(0): Creating default Display subsection in Screen section
+	"Default Screen Section" for depth/fbbpp 24/32
+[196037.049] (==) NVIDIA(0): Depth 24, (==) framebuffer bpp 32
+[196037.049] (==) NVIDIA(0): RGB weight 888
+[196037.049] (==) NVIDIA(0): Default visual is TrueColor
+[196037.049] (==) NVIDIA(0): Using gamma correction (1.0, 1.0, 1.0)
+[196037.049] (II) Applying OutputClass "nvidia" options to /dev/dri/card0
+[196037.049] (**) NVIDIA(0): Option "AllowEmptyInitialConfiguration"
+[196037.049] (**) NVIDIA(0): Enabling 2D acceleration
+[196037.049] (II) Loading sub module "glxserver_nvidia"
+[196037.049] (II) LoadModule: "glxserver_nvidia"
+[196037.049] (II) Loading /usr/lib/x86_64-linux-gnu/nvidia/xorg/libglxserver_nvidia.so
+[196037.054] (II) Module glxserver_nvidia: vendor="NVIDIA Corporation"
+[196037.054] 	compiled for 1.6.99.901, module version = 1.0.0
+[196037.054] 	Module class: X.Org Server Extension
+[196037.054] (II) NVIDIA GLX Module  535.171.04  Tue Mar 19 20:33:08 UTC 2024
+[196037.054] (II) NVIDIA: The X server supports PRIME Render Offload.
+[196037.054] (--) NVIDIA(0): Valid display device(s) on GPU-0 at PCI:1:0:0
+[196037.054] (--) NVIDIA(0):     DFP-0
+[196037.054] (--) NVIDIA(0):     DFP-1
+[196037.054] (--) NVIDIA(0):     DFP-2
+[196037.054] (--) NVIDIA(0):     DFP-3
+[196037.054] (--) NVIDIA(0):     DFP-4
+[196037.054] (--) NVIDIA(0):     DFP-5
+[196037.054] (--) NVIDIA(0):     DFP-6
+[196037.054] (II) NVIDIA(0): NVIDIA GPU NVIDIA GeForce RTX 3060 (GA106-A) at PCI:1:0:0
+[196037.054] (II) NVIDIA(0):     (GPU-0)
+[196037.054] (--) NVIDIA(0): Memory: 12582912 kBytes
+[196037.054] (--) NVIDIA(0): VideoBIOS: 94.06.2f.00.cb
+[196037.054] (II) NVIDIA(0): Detected PCI Express Link width: 16X
+[196037.097] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): connected
+[196037.097] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): Internal TMDS
+[196037.097] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): 600.0 MHz maximum pixel clock
+[196037.097] (--) NVIDIA(GPU-0): 
+[196037.097] (--) NVIDIA(GPU-0): DFP-1: disconnected
+[196037.097] (--) NVIDIA(GPU-0): DFP-1: Internal DisplayPort
+[196037.097] (--) NVIDIA(GPU-0): DFP-1: 2670.0 MHz maximum pixel clock
+[196037.098] (--) NVIDIA(GPU-0): 
+[196037.098] (--) NVIDIA(GPU-0): DFP-2: disconnected
+[196037.098] (--) NVIDIA(GPU-0): DFP-2: Internal TMDS
+[196037.098] (--) NVIDIA(GPU-0): DFP-2: 165.0 MHz maximum pixel clock
+[196037.098] (--) NVIDIA(GPU-0): 
+[196037.098] (--) NVIDIA(GPU-0): DFP-3: disconnected
+[196037.098] (--) NVIDIA(GPU-0): DFP-3: Internal DisplayPort
+[196037.098] (--) NVIDIA(GPU-0): DFP-3: 2670.0 MHz maximum pixel clock
+[196037.098] (--) NVIDIA(GPU-0): 
+[196037.098] (--) NVIDIA(GPU-0): DFP-4: disconnected
+[196037.098] (--) NVIDIA(GPU-0): DFP-4: Internal TMDS
+[196037.098] (--) NVIDIA(GPU-0): DFP-4: 165.0 MHz maximum pixel clock
+[196037.098] (--) NVIDIA(GPU-0): 
+[196037.098] (--) NVIDIA(GPU-0): DFP-5: disconnected
+[196037.098] (--) NVIDIA(GPU-0): DFP-5: Internal DisplayPort
+[196037.098] (--) NVIDIA(GPU-0): DFP-5: 2670.0 MHz maximum pixel clock
+[196037.098] (--) NVIDIA(GPU-0): 
+[196037.098] (--) NVIDIA(GPU-0): DFP-6: disconnected
+[196037.098] (--) NVIDIA(GPU-0): DFP-6: Internal TMDS
+[196037.098] (--) NVIDIA(GPU-0): DFP-6: 165.0 MHz maximum pixel clock
+[196037.098] (--) NVIDIA(GPU-0): 
+[196037.125] (==) NVIDIA(0): 
+[196037.125] (==) NVIDIA(0): No modes were requested; the default mode "nvidia-auto-select"
+[196037.125] (==) NVIDIA(0):     will be used as the requested mode.
+[196037.125] (==) NVIDIA(0): 
+[196037.132] (II) NVIDIA(0): Validated MetaModes:
+[196037.132] (II) NVIDIA(0):     "DFP-0:nvidia-auto-select"
+[196037.132] (II) NVIDIA(0): Virtual screen size determined to be 3840 x 2160
+[196037.365] (WW) NVIDIA(0): Philips FTV (DFP-0) does not have an EDID, or its EDID does
+[196037.365] (WW) NVIDIA(0):     not contain a maximum image size; cannot compute DPI from
+[196037.365] (WW) NVIDIA(0):     Philips FTV (DFP-0)'s EDID.
+[196037.365] (==) NVIDIA(0): DPI set to (75, 75); computed from built-in default
+[196037.365] (II) UnloadModule: "nouveau"
+[196037.365] (II) Unloading nouveau
+[196037.365] (II) UnloadModule: "modesetting"
+[196037.365] (II) Unloading modesetting
+[196037.365] (II) UnloadModule: "fbdev"
+[196037.365] (II) Unloading fbdev
+[196037.365] (II) UnloadSubModule: "fbdevhw"
+[196037.365] (II) Unloading fbdevhw
+[196037.365] (II) UnloadModule: "vesa"
+[196037.365] (II) Unloading vesa
+[196037.365] (WW) NVIDIA: Failed to bind sideband socket to
+[196037.365] (WW) NVIDIA:     '/var/run/nvidia-xdriver-ea7adb4c' Permission denied
+[196037.366] (II) NVIDIA: Reserving 24576.00 MB of virtual memory for indirect memory
+[196037.366] (II) NVIDIA:     access.
+[196037.368] (II) NVIDIA(0): ACPI: failed to connect to the ACPI event daemon; the daemon
+[196037.368] (II) NVIDIA(0):     may not be running or the "AcpidSocketPath" X
+[196037.368] (II) NVIDIA(0):     configuration option may not be set correctly.  When the
+[196037.368] (II) NVIDIA(0):     ACPI event daemon is available, the NVIDIA X driver will
+[196037.368] (II) NVIDIA(0):     try to use it to receive ACPI event notifications.  For
+[196037.368] (II) NVIDIA(0):     details, please see the "ConnectToAcpid" and
+[196037.368] (II) NVIDIA(0):     "AcpidSocketPath" X configuration options in Appendix B: X
+[196037.368] (II) NVIDIA(0):     Config Options in the README.
+[196037.382] (II) NVIDIA(0): Setting mode "DFP-0:nvidia-auto-select"
+[196037.469] (==) NVIDIA(0): Disabling shared memory pixmaps
+[196037.469] (==) NVIDIA(0): Backing store enabled
+[196037.469] (==) NVIDIA(0): Silken mouse enabled
+[196037.469] (==) NVIDIA(0): DPMS enabled
+[196037.469] (II) Loading sub module "dri2"
+[196037.469] (II) LoadModule: "dri2"
+[196037.469] (II) Module "dri2" already built-in
+[196037.469] (II) NVIDIA(0): [DRI2] Setup complete
+[196037.469] (II) NVIDIA(0): [DRI2]   VDPAU driver: nvidia
+[196037.470] (II) Initializing extension Generic Event Extension
+[196037.470] (II) Initializing extension SHAPE
+[196037.470] (II) Initializing extension MIT-SHM
+[196037.470] (II) Initializing extension XInputExtension
+[196037.470] (II) Initializing extension XTEST
+[196037.470] (II) Initializing extension BIG-REQUESTS
+[196037.470] (II) Initializing extension SYNC
+[196037.470] (II) Initializing extension XKEYBOARD
+[196037.470] (II) Initializing extension XC-MISC
+[196037.470] (II) Initializing extension SECURITY
+[196037.470] (II) Initializing extension XFIXES
+[196037.470] (II) Initializing extension RENDER
+[196037.470] (II) Initializing extension RANDR
+[196037.470] (II) Initializing extension COMPOSITE
+[196037.470] (II) Initializing extension DAMAGE
+[196037.470] (II) Initializing extension MIT-SCREEN-SAVER
+[196037.470] (II) Initializing extension DOUBLE-BUFFER
+[196037.470] (II) Initializing extension RECORD
+[196037.470] (II) Initializing extension DPMS
+[196037.470] (II) Initializing extension Present
+[196037.470] (II) Initializing extension DRI3
+[196037.470] (II) Initializing extension X-Resource
+[196037.470] (II) Initializing extension XVideo
+[196037.471] (II) Initializing extension XVideo-MotionCompensation
+[196037.471] (II) Initializing extension SELinux
+[196037.471] (II) SELinux: Disabled on system
+[196037.471] (II) Initializing extension GLX
+[196037.471] (II) Initializing extension GLX
+[196037.471] (II) Indirect GLX disabled.
+[196037.471] (II) GLX: Another vendor is already registered for screen 0
+[196037.471] (II) Initializing extension XFree86-VidModeExtension
+[196037.471] (II) Initializing extension XFree86-DGA
+[196037.471] (II) Initializing extension XFree86-DRI
+[196037.471] (II) Initializing extension DRI2
+[196037.471] (II) Initializing extension NV-GLX
+[196037.471] (II) Initializing extension NV-CONTROL
+[196037.471] (II) Initializing extension XINERAMA
+[196037.496] (II) config/udev: Adding input device Power Button (/dev/input/event2)
+[196037.496] (**) Power Button: Applying InputClass "libinput keyboard catchall"
+[196037.496] (II) LoadModule: "libinput"
+[196037.497] (II) Loading /usr/lib/xorg/modules/input/libinput_drv.so
+[196037.497] (II) Module libinput: vendor="X.Org Foundation"
+[196037.497] 	compiled for 1.21.1.11, module version = 1.4.0
+[196037.497] 	Module class: X.Org XInput Driver
+[196037.497] 	ABI class: X.Org XInput driver, version 24.4
+[196037.497] (II) Using input driver 'libinput' for 'Power Button'
+[196037.498] (II) systemd-logind: got fd for /dev/input/event2 13:66 fd 39 paused 0
+[196037.498] (**) Power Button: always reports core events
+[196037.498] (**) Option "Device" "/dev/input/event2"
+[196037.499] (II) event2  - Power Button: is tagged by udev as: Keyboard
+[196037.499] (II) event2  - Power Button: device is a keyboard
+[196037.499] (II) event2  - Power Button: device removed
+[196037.499] (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXPWRBN:00/input/input2/event2"
+[196037.499] (II) XINPUT: Adding extended input device "Power Button" (type: KEYBOARD, id 6)
+[196037.499] (**) Option "xkb_model" "pc105"
+[196037.499] (**) Option "xkb_layout" "us"
+[196037.499] (II) event2  - Power Button: is tagged by udev as: Keyboard
+[196037.499] (II) event2  - Power Button: device is a keyboard
+[196037.499] (II) config/udev: Adding input device Power Button (/dev/input/event1)
+[196037.499] (**) Power Button: Applying InputClass "libinput keyboard catchall"
+[196037.499] (II) Using input driver 'libinput' for 'Power Button'
+[196037.500] (II) systemd-logind: got fd for /dev/input/event1 13:65 fd 42 paused 0
+[196037.500] (**) Power Button: always reports core events
+[196037.500] (**) Option "Device" "/dev/input/event1"
+[196037.500] (II) event1  - Power Button: is tagged by udev as: Keyboard
+[196037.500] (II) event1  - Power Button: device is a keyboard
+[196037.501] (II) event1  - Power Button: device removed
+[196037.501] (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0C:00/input/input1/event1"
+[196037.501] (II) XINPUT: Adding extended input device "Power Button" (type: KEYBOARD, id 7)
+[196037.501] (**) Option "xkb_model" "pc105"
+[196037.501] (**) Option "xkb_layout" "us"
+[196037.501] (II) event1  - Power Button: is tagged by udev as: Keyboard
+[196037.501] (II) event1  - Power Button: device is a keyboard
+[196037.502] (II) config/udev: Adding input device Sleep Button (/dev/input/event0)
+[196037.502] (**) Sleep Button: Applying InputClass "libinput keyboard catchall"
+[196037.502] (II) Using input driver 'libinput' for 'Sleep Button'
+[196037.502] (II) systemd-logind: got fd for /dev/input/event0 13:64 fd 43 paused 0
+[196037.502] (**) Sleep Button: always reports core events
+[196037.502] (**) Option "Device" "/dev/input/event0"
+[196037.503] (II) event0  - Sleep Button: is tagged by udev as: Keyboard
+[196037.503] (II) event0  - Sleep Button: device is a keyboard
+[196037.503] (II) event0  - Sleep Button: device removed
+[196037.503] (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0E:00/input/input0/event0"
+[196037.503] (II) XINPUT: Adding extended input device "Sleep Button" (type: KEYBOARD, id 8)
+[196037.503] (**) Option "xkb_model" "pc105"
+[196037.503] (**) Option "xkb_layout" "us"
+[196037.503] (II) event0  - Sleep Button: is tagged by udev as: Keyboard
+[196037.503] (II) event0  - Sleep Button: device is a keyboard
+[196037.504] (II) config/udev: Adding input device HDA NVidia HDMI/DP,pcm=3 (/dev/input/event9)
+[196037.504] (II) No input driver specified, ignoring this device.
+[196037.504] (II) This device may have been added with another device file.
+[196037.504] (II) config/udev: Adding input device HDA NVidia HDMI/DP,pcm=7 (/dev/input/event10)
+[196037.505] (II) No input driver specified, ignoring this device.
+[196037.505] (II) This device may have been added with another device file.
+[196037.505] (II) config/udev: Adding input device HDA NVidia HDMI/DP,pcm=8 (/dev/input/event11)
+[196037.505] (II) No input driver specified, ignoring this device.
+[196037.505] (II) This device may have been added with another device file.
+[196037.505] (II) config/udev: Adding input device HDA NVidia HDMI/DP,pcm=9 (/dev/input/event12)
+[196037.505] (II) No input driver specified, ignoring this device.
+[196037.505] (II) This device may have been added with another device file.
+[196037.506] (II) config/udev: Adding input device Logitech USB Receiver (/dev/input/event3)
+[196037.506] (**) Logitech USB Receiver: Applying InputClass "libinput keyboard catchall"
+[196037.506] (II) Using input driver 'libinput' for 'Logitech USB Receiver'
+[196037.506] (II) systemd-logind: got fd for /dev/input/event3 13:67 fd 44 paused 0
+[196037.506] (**) Logitech USB Receiver: always reports core events
+[196037.506] (**) Option "Device" "/dev/input/event3"
+[196037.507] (II) event3  - Logitech USB Receiver: is tagged by udev as: Keyboard
+[196037.507] (II) event3  - Logitech USB Receiver: device is a keyboard
+[196037.507] (II) event3  - Logitech USB Receiver: device removed
+[196037.507] (**) Option "config_info" "udev:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-8/1-8.3/1-8.3:1.0/0003:046D:C53D.0008/input/input29/event3"
+[196037.507] (II) XINPUT: Adding extended input device "Logitech USB Receiver" (type: KEYBOARD, id 9)
+[196037.507] (**) Option "xkb_model" "pc105"
+[196037.507] (**) Option "xkb_layout" "us"
+[196037.508] (II) event3  - Logitech USB Receiver: is tagged by udev as: Keyboard
+[196037.508] (II) event3  - Logitech USB Receiver: device is a keyboard
+[196037.508] (II) config/udev: Adding input device Logitech USB Receiver Mouse (/dev/input/event4)
+[196037.508] (**) Logitech USB Receiver Mouse: Applying InputClass "libinput pointer catchall"
+[196037.508] (II) Using input driver 'libinput' for 'Logitech USB Receiver Mouse'
+[196037.508] (II) systemd-logind: got fd for /dev/input/event4 13:68 fd 45 paused 0
+[196037.508] (**) Logitech USB Receiver Mouse: always reports core events
+[196037.508] (**) Option "Device" "/dev/input/event4"
+[196037.509] (II) event4  - Logitech USB Receiver Mouse: is tagged by udev as: Mouse
+[196037.509] (II) event4  - Logitech USB Receiver Mouse: device is a pointer
+[196037.510] (II) event4  - Logitech USB Receiver Mouse: device removed
+[196037.510] (II) libinput: Logitech USB Receiver Mouse: Step value 0 was provided, libinput Fallback acceleration function is used.
+[196037.510] (II) libinput: Logitech USB Receiver Mouse: Step value 0 was provided, libinput Fallback acceleration function is used.
+[196037.510] (II) libinput: Logitech USB Receiver Mouse: Step value 0 was provided, libinput Fallback acceleration function is used.
+[196037.510] (**) Option "config_info" "udev:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-8/1-8.3/1-8.3:1.1/0003:046D:C53D.0009/input/input30/event4"
+[196037.510] (II) XINPUT: Adding extended input device "Logitech USB Receiver Mouse" (type: MOUSE, id 10)
+[196037.510] (**) Option "AccelerationScheme" "none"
+[196037.510] (**) Logitech USB Receiver Mouse: (accel) selected scheme none/0
+[196037.510] (**) Logitech USB Receiver Mouse: (accel) acceleration factor: 2.000
+[196037.510] (**) Logitech USB Receiver Mouse: (accel) acceleration threshold: 4
+[196037.511] (II) event4  - Logitech USB Receiver Mouse: is tagged by udev as: Mouse
+[196037.511] (II) event4  - Logitech USB Receiver Mouse: device is a pointer
+[196037.511] (II) config/udev: Adding input device Logitech USB Receiver Mouse (/dev/input/mouse1)
+[196037.511] (II) No input driver specified, ignoring this device.
+[196037.511] (II) This device may have been added with another device file.
+[196037.512] (II) config/udev: Adding input device Logitech USB Receiver Consumer Control (/dev/input/event5)
+[196037.512] (**) Logitech USB Receiver Consumer Control: Applying InputClass "libinput keyboard catchall"
+[196037.512] (II) Using input driver 'libinput' for 'Logitech USB Receiver Consumer Control'
+[196037.512] (II) systemd-logind: got fd for /dev/input/event5 13:69 fd 46 paused 0
+[196037.512] (**) Logitech USB Receiver Consumer Control: always reports core events
+[196037.512] (**) Option "Device" "/dev/input/event5"
+[196037.513] (II) event5  - Logitech USB Receiver Consumer Control: is tagged by udev as: Keyboard
+[196037.513] (II) event5  - Logitech USB Receiver Consumer Control: device is a keyboard
+[196037.513] (II) event5  - Logitech USB Receiver Consumer Control: device removed
+[196037.513] (II) libinput: Logitech USB Receiver Consumer Control: needs a virtual subdevice
+[196037.513] (**) Option "config_info" "udev:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-8/1-8.3/1-8.3:1.1/0003:046D:C53D.0009/input/input31/event5"
+[196037.513] (II) XINPUT: Adding extended input device "Logitech USB Receiver Consumer Control" (type: MOUSE, id 11)
+[196037.514] (**) Option "AccelerationScheme" "none"
+[196037.514] (**) Logitech USB Receiver Consumer Control: (accel) selected scheme none/0
+[196037.514] (**) Logitech USB Receiver Consumer Control: (accel) acceleration factor: 2.000
+[196037.514] (**) Logitech USB Receiver Consumer Control: (accel) acceleration threshold: 4
+[196037.515] (II) event5  - Logitech USB Receiver Consumer Control: is tagged by udev as: Keyboard
+[196037.515] (II) event5  - Logitech USB Receiver Consumer Control: device is a keyboard
+[196037.515] (II) config/udev: Adding input device Logitech USB Receiver System Control (/dev/input/event6)
+[196037.515] (**) Logitech USB Receiver System Control: Applying InputClass "libinput keyboard catchall"
+[196037.515] (II) Using input driver 'libinput' for 'Logitech USB Receiver System Control'
+[196037.515] (II) systemd-logind: got fd for /dev/input/event6 13:70 fd 47 paused 0
+[196037.516] (**) Logitech USB Receiver System Control: always reports core events
+[196037.516] (**) Option "Device" "/dev/input/event6"
+[196037.516] (II) event6  - Logitech USB Receiver System Control: is tagged by udev as: Keyboard
+[196037.517] (II) event6  - Logitech USB Receiver System Control: device is a keyboard
+[196037.517] (II) event6  - Logitech USB Receiver System Control: device removed
+[196037.517] (**) Option "config_info" "udev:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-8/1-8.3/1-8.3:1.1/0003:046D:C53D.0009/input/input32/event6"
+[196037.517] (II) XINPUT: Adding extended input device "Logitech USB Receiver System Control" (type: KEYBOARD, id 12)
+[196037.517] (**) Option "xkb_model" "pc105"
+[196037.517] (**) Option "xkb_layout" "us"
+[196037.518] (II) event6  - Logitech USB Receiver System Control: is tagged by udev as: Keyboard
+[196037.518] (II) event6  - Logitech USB Receiver System Control: device is a keyboard
+[196037.519] (II) config/udev: Adding input device Logitech G305 (/dev/input/event7)
+[196037.519] (**) Logitech G305: Applying InputClass "libinput pointer catchall"
+[196037.519] (**) Logitech G305: Applying InputClass "libinput keyboard catchall"
+[196037.519] (II) Using input driver 'libinput' for 'Logitech G305'
+[196037.519] (II) systemd-logind: got fd for /dev/input/event7 13:71 fd 48 paused 0
+[196037.519] (**) Logitech G305: always reports core events
+[196037.519] (**) Option "Device" "/dev/input/event7"
+[196037.520] (II) event7  - Logitech G305: is tagged by udev as: Keyboard Mouse
+[196037.520] (II) event7  - Logitech G305: device is a pointer
+[196037.520] (II) event7  - Logitech G305: device is a keyboard
+[196037.520] (II) event7  - Logitech G305: device removed
+[196037.520] (II) libinput: Logitech G305: Step value 0 was provided, libinput Fallback acceleration function is used.
+[196037.520] (II) libinput: Logitech G305: Step value 0 was provided, libinput Fallback acceleration function is used.
+[196037.520] (II) libinput: Logitech G305: Step value 0 was provided, libinput Fallback acceleration function is used.
+[196037.520] (II) libinput: Logitech G305: needs a virtual subdevice
+[196037.520] (**) Option "config_info" "udev:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-8/1-8.4/1-8.4:1.2/0003:046D:C53F.0006/0003:046D:4074.0007/input/input18/event7"
+[196037.520] (II) XINPUT: Adding extended input device "Logitech G305" (type: MOUSE, id 13)
+[196037.520] (**) Option "AccelerationScheme" "none"
+[196037.520] (**) Logitech G305: (accel) selected scheme none/0
+[196037.520] (**) Logitech G305: (accel) acceleration factor: 2.000
+[196037.520] (**) Logitech G305: (accel) acceleration threshold: 4
+[196037.521] (II) event7  - Logitech G305: is tagged by udev as: Keyboard Mouse
+[196037.521] (II) event7  - Logitech G305: device is a pointer
+[196037.521] (II) event7  - Logitech G305: device is a keyboard
+[196037.521] (II) config/udev: Adding input device Logitech G305 (/dev/input/mouse0)
+[196037.521] (II) No input driver specified, ignoring this device.
+[196037.521] (II) This device may have been added with another device file.
+[196037.522] (II) config/udev: Adding input device HDA Intel PCH Front Mic (/dev/input/event13)
+[196037.522] (II) No input driver specified, ignoring this device.
+[196037.522] (II) This device may have been added with another device file.
+[196037.522] (II) config/udev: Adding input device HDA Intel PCH Rear Mic (/dev/input/event14)
+[196037.522] (II) No input driver specified, ignoring this device.
+[196037.522] (II) This device may have been added with another device file.
+[196037.522] (II) config/udev: Adding input device HDA Intel PCH Line (/dev/input/event15)
+[196037.522] (II) No input driver specified, ignoring this device.
+[196037.522] (II) This device may have been added with another device file.
+[196037.522] (II) config/udev: Adding input device HDA Intel PCH Line Out (/dev/input/event16)
+[196037.522] (II) No input driver specified, ignoring this device.
+[196037.522] (II) This device may have been added with another device file.
+[196037.522] (II) config/udev: Adding input device HDA Intel PCH Front Headphone (/dev/input/event17)
+[196037.522] (II) No input driver specified, ignoring this device.
+[196037.522] (II) This device may have been added with another device file.
+[196037.524] (II) config/udev: Adding input device Eee PC WMI hotkeys (/dev/input/event8)
+[196037.524] (**) Eee PC WMI hotkeys: Applying InputClass "libinput keyboard catchall"
+[196037.524] (II) Using input driver 'libinput' for 'Eee PC WMI hotkeys'
+[196037.524] (II) systemd-logind: got fd for /dev/input/event8 13:72 fd 49 paused 0
+[196037.524] (**) Eee PC WMI hotkeys: always reports core events
+[196037.524] (**) Option "Device" "/dev/input/event8"
+[196037.524] (II) event8  - Eee PC WMI hotkeys: is tagged by udev as: Keyboard
+[196037.524] (II) event8  - Eee PC WMI hotkeys: device is a keyboard
+[196037.524] (II) event8  - Eee PC WMI hotkeys: device removed
+[196037.524] (**) Option "config_info" "udev:/sys/devices/platform/eeepc-wmi/input/input19/event8"
+[196037.524] (II) XINPUT: Adding extended input device "Eee PC WMI hotkeys" (type: KEYBOARD, id 14)
+[196037.524] (**) Option "xkb_model" "pc105"
+[196037.524] (**) Option "xkb_layout" "us"
+[196037.524] (II) event8  - Eee PC WMI hotkeys: is tagged by udev as: Keyboard
+[196037.524] (II) event8  - Eee PC WMI hotkeys: device is a keyboard
+[196037.526] (**) Logitech USB Receiver Consumer Control: Applying InputClass "libinput keyboard catchall"
+[196037.526] (II) Using input driver 'libinput' for 'Logitech USB Receiver Consumer Control'
+[196037.526] (II) systemd-logind: returning pre-existing fd for /dev/input/event5 13:69
+[196037.526] (**) Logitech USB Receiver Consumer Control: always reports core events
+[196037.526] (**) Option "Device" "/dev/input/event5"
+[196037.526] (II) libinput: Logitech USB Receiver Consumer Control: is a virtual subdevice
+[196037.526] (**) Option "config_info" "udev:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-8/1-8.3/1-8.3:1.1/0003:046D:C53D.0009/input/input31/event5"
+[196037.526] (II) XINPUT: Adding extended input device "Logitech USB Receiver Consumer Control" (type: KEYBOARD, id 15)
+[196037.526] (**) Option "xkb_model" "pc105"
+[196037.526] (**) Option "xkb_layout" "us"
+[196037.527] (**) Logitech G305: Applying InputClass "libinput pointer catchall"
+[196037.527] (**) Logitech G305: Applying InputClass "libinput keyboard catchall"
+[196037.527] (II) Using input driver 'libinput' for 'Logitech G305'
+[196037.527] (II) systemd-logind: returning pre-existing fd for /dev/input/event7 13:71
+[196037.527] (**) Logitech G305: always reports core events
+[196037.527] (**) Option "Device" "/dev/input/event7"
+[196037.527] (II) libinput: Logitech G305: is a virtual subdevice
+[196037.527] (II) libinput: Logitech G305: Step value 0 was provided, libinput Fallback acceleration function is used.
+[196037.527] (II) libinput: Logitech G305: Step value 0 was provided, libinput Fallback acceleration function is used.
+[196037.527] (II) libinput: Logitech G305: Step value 0 was provided, libinput Fallback acceleration function is used.
+[196037.527] (**) Option "config_info" "udev:/sys/devices/pci0000:00/0000:00:14.0/usb1/1-8/1-8.4/1-8.4:1.2/0003:046D:C53F.0006/0003:046D:4074.0007/input/input18/event7"
+[196037.527] (II) XINPUT: Adding extended input device "Logitech G305" (type: KEYBOARD, id 16)
+[196037.527] (**) Option "xkb_model" "pc105"
+[196037.527] (**) Option "xkb_layout" "us"
+[197629.507] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): connected
+[197629.507] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): Internal TMDS
+[197629.507] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): 600.0 MHz maximum pixel clock
+[197629.507] (--) NVIDIA(GPU-0): 
+[197629.507] (--) NVIDIA(GPU-0): DFP-1: disconnected
+[197629.507] (--) NVIDIA(GPU-0): DFP-1: Internal DisplayPort
+[197629.507] (--) NVIDIA(GPU-0): DFP-1: 2670.0 MHz maximum pixel clock
+[197629.507] (--) NVIDIA(GPU-0): 
+[197629.508] (--) NVIDIA(GPU-0): DFP-2: disconnected
+[197629.508] (--) NVIDIA(GPU-0): DFP-2: Internal TMDS
+[197629.508] (--) NVIDIA(GPU-0): DFP-2: 165.0 MHz maximum pixel clock
+[197629.508] (--) NVIDIA(GPU-0): 
+[197629.508] (--) NVIDIA(GPU-0): DFP-3: disconnected
+[197629.508] (--) NVIDIA(GPU-0): DFP-3: Internal DisplayPort
+[197629.508] (--) NVIDIA(GPU-0): DFP-3: 2670.0 MHz maximum pixel clock
+[197629.508] (--) NVIDIA(GPU-0): 
+[197629.508] (--) NVIDIA(GPU-0): DFP-4: disconnected
+[197629.508] (--) NVIDIA(GPU-0): DFP-4: Internal TMDS
+[197629.508] (--) NVIDIA(GPU-0): DFP-4: 165.0 MHz maximum pixel clock
+[197629.508] (--) NVIDIA(GPU-0): 
+[197629.508] (--) NVIDIA(GPU-0): DFP-5: disconnected
+[197629.508] (--) NVIDIA(GPU-0): DFP-5: Internal DisplayPort
+[197629.508] (--) NVIDIA(GPU-0): DFP-5: 2670.0 MHz maximum pixel clock
+[197629.508] (--) NVIDIA(GPU-0): 
+[197629.508] (--) NVIDIA(GPU-0): DFP-6: disconnected
+[197629.508] (--) NVIDIA(GPU-0): DFP-6: Internal TMDS
+[197629.508] (--) NVIDIA(GPU-0): DFP-6: 165.0 MHz maximum pixel clock
+[197629.508] (--) NVIDIA(GPU-0): 
+[197630.202] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): connected
+[197630.202] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): Internal TMDS
+[197630.202] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): 600.0 MHz maximum pixel clock
+[197630.202] (--) NVIDIA(GPU-0): 
+[197630.202] (--) NVIDIA(GPU-0): DFP-1: disconnected
+[197630.202] (--) NVIDIA(GPU-0): DFP-1: Internal DisplayPort
+[197630.202] (--) NVIDIA(GPU-0): DFP-1: 2670.0 MHz maximum pixel clock
+[197630.202] (--) NVIDIA(GPU-0): 
+[197630.202] (--) NVIDIA(GPU-0): DFP-2: disconnected
+[197630.202] (--) NVIDIA(GPU-0): DFP-2: Internal TMDS
+[197630.202] (--) NVIDIA(GPU-0): DFP-2: 165.0 MHz maximum pixel clock
+[197630.202] (--) NVIDIA(GPU-0): 
+[197630.202] (--) NVIDIA(GPU-0): DFP-3: disconnected
+[197630.202] (--) NVIDIA(GPU-0): DFP-3: Internal DisplayPort
+[197630.202] (--) NVIDIA(GPU-0): DFP-3: 2670.0 MHz maximum pixel clock
+[197630.202] (--) NVIDIA(GPU-0): 
+[197630.202] (--) NVIDIA(GPU-0): DFP-4: disconnected
+[197630.202] (--) NVIDIA(GPU-0): DFP-4: Internal TMDS
+[197630.202] (--) NVIDIA(GPU-0): DFP-4: 165.0 MHz maximum pixel clock
+[197630.202] (--) NVIDIA(GPU-0): 
+[197630.202] (--) NVIDIA(GPU-0): DFP-5: disconnected
+[197630.202] (--) NVIDIA(GPU-0): DFP-5: Internal DisplayPort
+[197630.202] (--) NVIDIA(GPU-0): DFP-5: 2670.0 MHz maximum pixel clock
+[197630.202] (--) NVIDIA(GPU-0): 
+[197630.203] (--) NVIDIA(GPU-0): DFP-6: disconnected
+[197630.203] (--) NVIDIA(GPU-0): DFP-6: Internal TMDS
+[197630.203] (--) NVIDIA(GPU-0): DFP-6: 165.0 MHz maximum pixel clock
+[197630.203] (--) NVIDIA(GPU-0): 
+[199175.138] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): connected
+[199175.138] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): Internal TMDS
+[199175.138] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): 600.0 MHz maximum pixel clock
+[199175.138] (--) NVIDIA(GPU-0): 
+[199175.138] (--) NVIDIA(GPU-0): DFP-1: disconnected
+[199175.138] (--) NVIDIA(GPU-0): DFP-1: Internal DisplayPort
+[199175.138] (--) NVIDIA(GPU-0): DFP-1: 2670.0 MHz maximum pixel clock
+[199175.138] (--) NVIDIA(GPU-0): 
+[199175.138] (--) NVIDIA(GPU-0): DFP-2: disconnected
+[199175.138] (--) NVIDIA(GPU-0): DFP-2: Internal TMDS
+[199175.138] (--) NVIDIA(GPU-0): DFP-2: 165.0 MHz maximum pixel clock
+[199175.138] (--) NVIDIA(GPU-0): 
+[199175.138] (--) NVIDIA(GPU-0): DFP-3: disconnected
+[199175.138] (--) NVIDIA(GPU-0): DFP-3: Internal DisplayPort
+[199175.138] (--) NVIDIA(GPU-0): DFP-3: 2670.0 MHz maximum pixel clock
+[199175.138] (--) NVIDIA(GPU-0): 
+[199175.138] (--) NVIDIA(GPU-0): DFP-4: disconnected
+[199175.138] (--) NVIDIA(GPU-0): DFP-4: Internal TMDS
+[199175.138] (--) NVIDIA(GPU-0): DFP-4: 165.0 MHz maximum pixel clock
+[199175.138] (--) NVIDIA(GPU-0): 
+[199175.138] (--) NVIDIA(GPU-0): DFP-5: disconnected
+[199175.138] (--) NVIDIA(GPU-0): DFP-5: Internal DisplayPort
+[199175.138] (--) NVIDIA(GPU-0): DFP-5: 2670.0 MHz maximum pixel clock
+[199175.138] (--) NVIDIA(GPU-0): 
+[199175.139] (--) NVIDIA(GPU-0): DFP-6: disconnected
+[199175.139] (--) NVIDIA(GPU-0): DFP-6: Internal TMDS
+[199175.139] (--) NVIDIA(GPU-0): DFP-6: 165.0 MHz maximum pixel clock
+[199175.139] (--) NVIDIA(GPU-0): 
+[199175.183] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): connected
+[199175.183] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): Internal TMDS
+[199175.183] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): 600.0 MHz maximum pixel clock
+[199175.183] (--) NVIDIA(GPU-0): 
+[199175.183] (--) NVIDIA(GPU-0): DFP-1: disconnected
+[199175.183] (--) NVIDIA(GPU-0): DFP-1: Internal DisplayPort
+[199175.183] (--) NVIDIA(GPU-0): DFP-1: 2670.0 MHz maximum pixel clock
+[199175.183] (--) NVIDIA(GPU-0): 
+[199175.183] (--) NVIDIA(GPU-0): DFP-2: disconnected
+[199175.183] (--) NVIDIA(GPU-0): DFP-2: Internal TMDS
+[199175.183] (--) NVIDIA(GPU-0): DFP-2: 165.0 MHz maximum pixel clock
+[199175.183] (--) NVIDIA(GPU-0): 
+[199175.183] (--) NVIDIA(GPU-0): DFP-3: disconnected
+[199175.183] (--) NVIDIA(GPU-0): DFP-3: Internal DisplayPort
+[199175.183] (--) NVIDIA(GPU-0): DFP-3: 2670.0 MHz maximum pixel clock
+[199175.183] (--) NVIDIA(GPU-0): 
+[199175.183] (--) NVIDIA(GPU-0): DFP-4: disconnected
+[199175.183] (--) NVIDIA(GPU-0): DFP-4: Internal TMDS
+[199175.183] (--) NVIDIA(GPU-0): DFP-4: 165.0 MHz maximum pixel clock
+[199175.183] (--) NVIDIA(GPU-0): 
+[199175.183] (--) NVIDIA(GPU-0): DFP-5: disconnected
+[199175.183] (--) NVIDIA(GPU-0): DFP-5: Internal DisplayPort
+[199175.183] (--) NVIDIA(GPU-0): DFP-5: 2670.0 MHz maximum pixel clock
+[199175.183] (--) NVIDIA(GPU-0): 
+[199175.183] (--) NVIDIA(GPU-0): DFP-6: disconnected
+[199175.183] (--) NVIDIA(GPU-0): DFP-6: Internal TMDS
+[199175.183] (--) NVIDIA(GPU-0): DFP-6: 165.0 MHz maximum pixel clock
+[199175.183] (--) NVIDIA(GPU-0): 
+[200166.868] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): connected
+[200166.868] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): Internal TMDS
+[200166.868] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): 600.0 MHz maximum pixel clock
+[200166.868] (--) NVIDIA(GPU-0): 
+[200166.868] (--) NVIDIA(GPU-0): DFP-1: disconnected
+[200166.868] (--) NVIDIA(GPU-0): DFP-1: Internal DisplayPort
+[200166.868] (--) NVIDIA(GPU-0): DFP-1: 2670.0 MHz maximum pixel clock
+[200166.868] (--) NVIDIA(GPU-0): 
+[200166.868] (--) NVIDIA(GPU-0): DFP-2: disconnected
+[200166.868] (--) NVIDIA(GPU-0): DFP-2: Internal TMDS
+[200166.868] (--) NVIDIA(GPU-0): DFP-2: 165.0 MHz maximum pixel clock
+[200166.868] (--) NVIDIA(GPU-0): 
+[200166.868] (--) NVIDIA(GPU-0): DFP-3: disconnected
+[200166.868] (--) NVIDIA(GPU-0): DFP-3: Internal DisplayPort
+[200166.868] (--) NVIDIA(GPU-0): DFP-3: 2670.0 MHz maximum pixel clock
+[200166.868] (--) NVIDIA(GPU-0): 
+[200166.868] (--) NVIDIA(GPU-0): DFP-4: disconnected
+[200166.868] (--) NVIDIA(GPU-0): DFP-4: Internal TMDS
+[200166.868] (--) NVIDIA(GPU-0): DFP-4: 165.0 MHz maximum pixel clock
+[200166.868] (--) NVIDIA(GPU-0): 
+[200166.868] (--) NVIDIA(GPU-0): DFP-5: disconnected
+[200166.868] (--) NVIDIA(GPU-0): DFP-5: Internal DisplayPort
+[200166.868] (--) NVIDIA(GPU-0): DFP-5: 2670.0 MHz maximum pixel clock
+[200166.868] (--) NVIDIA(GPU-0): 
+[200166.868] (--) NVIDIA(GPU-0): DFP-6: disconnected
+[200166.868] (--) NVIDIA(GPU-0): DFP-6: Internal TMDS
+[200166.868] (--) NVIDIA(GPU-0): DFP-6: 165.0 MHz maximum pixel clock
+[200166.868] (--) NVIDIA(GPU-0): 
+[200166.913] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): connected
+[200166.913] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): Internal TMDS
+[200166.913] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): 600.0 MHz maximum pixel clock
+[200166.913] (--) NVIDIA(GPU-0): 
+[200166.913] (--) NVIDIA(GPU-0): DFP-1: disconnected
+[200166.913] (--) NVIDIA(GPU-0): DFP-1: Internal DisplayPort
+[200166.913] (--) NVIDIA(GPU-0): DFP-1: 2670.0 MHz maximum pixel clock
+[200166.913] (--) NVIDIA(GPU-0): 
+[200166.913] (--) NVIDIA(GPU-0): DFP-2: disconnected
+[200166.913] (--) NVIDIA(GPU-0): DFP-2: Internal TMDS
+[200166.913] (--) NVIDIA(GPU-0): DFP-2: 165.0 MHz maximum pixel clock
+[200166.913] (--) NVIDIA(GPU-0): 
+[200166.913] (--) NVIDIA(GPU-0): DFP-3: disconnected
+[200166.913] (--) NVIDIA(GPU-0): DFP-3: Internal DisplayPort
+[200166.913] (--) NVIDIA(GPU-0): DFP-3: 2670.0 MHz maximum pixel clock
+[200166.913] (--) NVIDIA(GPU-0): 
+[200166.913] (--) NVIDIA(GPU-0): DFP-4: disconnected
+[200166.913] (--) NVIDIA(GPU-0): DFP-4: Internal TMDS
+[200166.913] (--) NVIDIA(GPU-0): DFP-4: 165.0 MHz maximum pixel clock
+[200166.913] (--) NVIDIA(GPU-0): 
+[200166.913] (--) NVIDIA(GPU-0): DFP-5: disconnected
+[200166.913] (--) NVIDIA(GPU-0): DFP-5: Internal DisplayPort
+[200166.913] (--) NVIDIA(GPU-0): DFP-5: 2670.0 MHz maximum pixel clock
+[200166.913] (--) NVIDIA(GPU-0): 
+[200166.913] (--) NVIDIA(GPU-0): DFP-6: disconnected
+[200166.913] (--) NVIDIA(GPU-0): DFP-6: Internal TMDS
+[200166.913] (--) NVIDIA(GPU-0): DFP-6: 165.0 MHz maximum pixel clock
+[200166.913] (--) NVIDIA(GPU-0): 
+[207929.599] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): connected
+[207929.599] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): Internal TMDS
+[207929.599] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): 600.0 MHz maximum pixel clock
+[207929.599] (--) NVIDIA(GPU-0): 
+[207929.687] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): connected
+[207929.687] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): Internal TMDS
+[207929.687] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): 600.0 MHz maximum pixel clock
+[207929.687] (--) NVIDIA(GPU-0): 
+[264522.287] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): connected
+[264522.287] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): Internal TMDS
+[264522.287] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): 600.0 MHz maximum pixel clock
+[264522.287] (--) NVIDIA(GPU-0): 
+[264522.375] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): connected
+[264522.375] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): Internal TMDS
+[264522.375] (--) NVIDIA(GPU-0): Philips FTV (DFP-0): 600.0 MHz maximum pixel clock
+[264522.375] (--) NVIDIA(GPU-0): 

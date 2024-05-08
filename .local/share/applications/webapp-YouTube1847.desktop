@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=YouTube
+Comment=Web App
+Exec=sh -c 'XAPP_FORCE_GTKWINDOW_ICON="camera-video-symbolic" /var/lib/flatpak/exports/bin/io.gitlab.librewolf-community --class WebApp-YouTube1847 --name WebApp-YouTube1847 --profile /home/sbaka/.var/app/io.gitlab.librewolf-community/data/ice/librewolf/YouTube1847 --no-remote "https://youtube.com"'
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=camera-video-symbolic
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-YouTube1847
+StartupNotify=true
+X-WebApp-Browser=LibreWolf (Flatpak)
+X-WebApp-URL=https://youtube.com
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true

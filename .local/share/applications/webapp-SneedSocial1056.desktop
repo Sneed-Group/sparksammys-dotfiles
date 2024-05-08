@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=Sneed Social
+Comment=Web App
+Exec=sh -c 'XAPP_FORCE_GTKWINDOW_ICON="tag-people" /var/lib/flatpak/exports/bin/io.gitlab.librewolf-community --class WebApp-SneedSocial1056 --name WebApp-SneedSocial1056 --profile /home/sbaka/.var/app/io.gitlab.librewolf-community/data/ice/librewolf/SneedSocial1056 --no-remote "https://nodemixaholic.com"'
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=tag-people
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-SneedSocial1056
+StartupNotify=true
+X-WebApp-Browser=LibreWolf (Flatpak)
+X-WebApp-URL=https://nodemixaholic.com
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true

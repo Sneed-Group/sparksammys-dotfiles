@@ -1,0 +1,125 @@
+[ExifToolSearchBar Search Text Tool]
+CaseSensitive=0
+
+[FavoritesSearchBar Search Text Tool]
+CaseSensitive=0
+
+[ImageViewer Settings]
+3840x2160 screen: Height=479
+3840x2160 screen: Width=877
+3840x2160 screen: XPosition=362
+3840x2160 screen: YPosition=1660
+AVIFCompression=100
+AVIFLossLess=true
+AutoZoom=true
+HDMI-0=HDMI-0
+HEIFCompression=75
+HEIFLossLess=true
+JPEGCompression=75
+JPEGSubSampling=1
+JXLCompression=100
+JXLLossLess=true
+Last Opened Directory=/home/sbaka/Pictures/
+LastSavedImageExtension=png
+OverExposureIndicator=false
+PGFCompression=3
+PGFLossLess=true
+PNGCompression=7
+PreviewMode=128
+Show Thumbbar=true
+SplitterState=AAAA/wAAAAEAAAADAAABpgAACqoAAAE5Af////8AAAAAAQE=
+State=AAAA/wAAAAD9AAAAAAAAA20AAAGDAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+TIFFCompression=false
+Theme=Default
+ToolBarsMovable=Disabled
+UnderExposureIndicator=false
+WEBPCompression=100
+WEBPLossLess=true
+
+[ImageViewer Thumbbar]
+State=AAAA/wAAAAD9AAAAAQAAAAIAAABXAAAAwPwBAAAAAfsAAAAeAGUAZABpAHQAbwByAF8AdABoAHUAbQBiAGIAYQByAQAAAAAAAABXAAAAVwD///8AAABXAAAAvQAAAAQAAAAEAAAACAAAAAj8AAAAAA==
+ToolBarsMovable=Disabled
+
+[SearchBar Search Text Tool]
+CaseSensitive=0
+
+[ShowFoto Sidebar Left]
+ActiveTab=0
+Minimized=false
+RestoreSize=-1
+
+[ShowFoto Sidebar Right]
+ActiveTab=0
+DigikamProperties Expanded=true
+FileProperties Expanded=true
+ItemProperties Expanded=true
+LocationProperties Expanded=true
+Minimized=false
+PhotographProperties Expanded=true
+RestoreSize=-1
+RightsProperties Expanded=true
+TagsProperties Expanded=true
+VideoProperties Expanded=true
+
+[ShowFoto Sidebar Right][Color Properties Tab]
+Current ICC Item=
+Histogram Channel=0
+Histogram Scale=1
+ICC Level=2
+ImagePropertiesColors Tab=0
+
+[ShowFoto Sidebar Right][GPS Properties Tab]
+Sort Order=0
+Web GPS Locator=0
+
+[ShowFoto Sidebar Right][GPS Properties Tab][Map Widget]
+Backend=marble
+Center=geo:52,6
+GoogleMaps Map Type=ROADMAP
+GoogleMaps Show Map Type Control=true
+GoogleMaps Show Navigation Control=true
+GoogleMaps Show Scale Control=true
+Marble Map Theme=earth/openstreetmap/openstreetmap.dgml
+Marble Projection=spherical
+Marble Show Compass=false
+Marble Show Navigation=true
+Marble Show Overview Map=false
+Marble Show Scale Bar=false
+Marker Grouping Radius=1
+Mouse Mode=0
+Preview Grouped Items=true
+Preview Single Items=true
+Show Thumbnails=true
+Show numbers on items=true
+Sticky Mode State=false
+Thumbnail Grouping Radius=30
+Thumbnail Size=60
+Zoom=marble:900
+
+[ShowFoto Sidebar Right][Metadata Properties Tab]
+Current EXIF Item=
+Current ExifTool Item=
+Current IPTC Item=
+Current MAKERNOTE Item=
+Current XMP Item=
+EXIF Level=0
+EXIFTOOL Level=0
+IPTC Level=0
+ImagePropertiesMetaData Tab=0
+MAKERNOTE Level=0
+XMP Level=0
+
+[ShowfotoFolderView Sidebar]
+BookmarkItems=0
+BookmarkTopItemExpanded=true
+BookmarkTopUsualExpanded=true
+Bookmarks Visible=false
+Folder View Mode=0
+Folder View Type Mime=11
+Icon Size=32
+Last Folder=/home/sbaka/Pictures/
+Splitter State=AAAA/wAAAAEAAAACAAAHgAAAAGQB/////wEAAAACAA==
+
+[ShowfotoStackView Sidebar]
+Icon Size=32
+Splitter State=AAAA/wAAAAEAAAACAAAARgAAAIMB/////wEAAAACAA==

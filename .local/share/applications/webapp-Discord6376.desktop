@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=Discord
+Comment=Web App
+Exec=sh -c 'XAPP_FORCE_GTKWINDOW_ICON="webapp-manager" /var/lib/flatpak/exports/bin/io.gitlab.librewolf-community --class WebApp-Discord6376 --name WebApp-Discord6376 --profile /home/sbaka/.var/app/io.gitlab.librewolf-community/data/ice/librewolf/Discord6376 --no-remote "https://discord.com/app"'
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=webapp-manager
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Discord6376
+StartupNotify=true
+X-WebApp-Browser=LibreWolf (Flatpak)
+X-WebApp-URL=https://discord.com/app
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true

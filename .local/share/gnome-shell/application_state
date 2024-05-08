@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-initial-setup.desktop" score="0" last-seen="1714518953"/>
+    <application id="apport-gtk.desktop" score="2" last-seen="1714519008"/>
+    <application id="io.freetubeapp.FreeTube.desktop" score="7" last-seen="1714519086"/>
+    <application id="io.gitlab.librewolf-community.desktop" score="1" last-seen="1714519074"/>
+  </context>
+</application-state>

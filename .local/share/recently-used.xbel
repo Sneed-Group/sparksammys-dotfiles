@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///media/sbaka/B88ABC558ABC11BC/Windows" added="2024-04-30T19:34:50.651757Z" modified="2024-04-30T19:34:50.651766Z" visited="2024-04-30T19:34:50.651759Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:34:50.651762Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/sbaka/B88ABC558ABC11BC/Windows/Fonts" added="2024-04-30T19:34:56.475403Z" modified="2024-04-30T19:34:56.475413Z" visited="2024-04-30T19:34:56.475404Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:34:56.475407Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka" added="2024-04-30T19:35:52.109770Z" modified="2024-05-08T15:50:35.022618Z" visited="2024-04-30T19:35:52.109770Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-08T15:50:35.022613Z" count="29"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/imports" added="2024-04-30T19:37:50.484067Z" modified="2024-04-30T19:38:30.808294Z" visited="2024-04-30T19:37:50.484069Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:38:30.808293Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="computer:///" added="2024-04-30T19:38:27.998883Z" modified="2024-04-30T19:38:27.998893Z" visited="2024-04-30T19:38:27.998885Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:38:27.998887Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/imports/Spotify" added="2024-04-30T19:38:34.978442Z" modified="2024-04-30T19:40:07.115022Z" visited="2024-04-30T19:38:34.978442Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:40:07.115021Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.var" added="2024-04-30T19:38:43.698961Z" modified="2024-05-08T15:51:39.763094Z" visited="2024-04-30T19:38:43.698961Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-08T15:51:39.763088Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.var/app" added="2024-04-30T19:38:44.891073Z" modified="2024-04-30T19:38:44.891082Z" visited="2024-04-30T19:38:44.891074Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:38:44.891077Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.var/app/com.spotify.Client" added="2024-04-30T19:38:46.196684Z" modified="2024-04-30T19:39:50.854651Z" visited="2024-04-30T19:38:46.196685Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:39:50.854646Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.var/app/com.spotify.Client/config" added="2024-04-30T19:38:48.575046Z" modified="2024-04-30T19:39:54.819775Z" visited="2024-04-30T19:38:48.575048Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:39:54.819772Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.var/app/com.spotify.Client/.local" added="2024-04-30T19:38:53.891109Z" modified="2024-04-30T19:39:06.712226Z" visited="2024-04-30T19:38:53.891111Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:39:06.712222Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.var/app/com.spotify.Client/.local/state" added="2024-04-30T19:38:55.087392Z" modified="2024-04-30T19:39:07.388141Z" visited="2024-04-30T19:38:55.087393Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:39:07.388138Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.var/app/com.spotify.Client/data" added="2024-04-30T19:38:57.323529Z" modified="2024-04-30T19:38:57.323540Z" visited="2024-04-30T19:38:57.323530Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:38:57.323533Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.var/app/com.spotify.Client/config/spotify" added="2024-04-30T19:39:01.768160Z" modified="2024-04-30T19:39:01.768169Z" visited="2024-04-30T19:39:01.768161Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:39:01.768164Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.var/app/com.spotify.Client/.ld.so" added="2024-04-30T19:39:09.048791Z" modified="2024-04-30T19:39:09.048794Z" visited="2024-04-30T19:39:09.048792Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:39:09.048792Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.var/app/com.vscodium.codium" added="2024-04-30T19:39:16.540783Z" modified="2024-04-30T19:39:16.540791Z" visited="2024-04-30T19:39:16.540785Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:39:16.540787Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.var/app/com.vscodium.codium/.local" added="2024-04-30T19:39:17.683238Z" modified="2024-04-30T19:39:17.683251Z" visited="2024-04-30T19:39:17.683239Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:39:17.683243Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.var/app/com.vscodium.codium/.local/state" added="2024-04-30T19:39:18.813664Z" modified="2024-04-30T19:39:18.813678Z" visited="2024-04-30T19:39:18.813666Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:39:18.813670Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.var/app/com.vscodium.codium/config" added="2024-04-30T19:39:21.557378Z" modified="2024-04-30T19:39:21.557389Z" visited="2024-04-30T19:39:21.557379Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:39:21.557382Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.var/app/com.vscodium.codium/config/VSCodium" added="2024-04-30T19:39:22.532831Z" modified="2024-04-30T19:39:22.532842Z" visited="2024-04-30T19:39:22.532832Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:39:22.532835Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/imports/VSCodium" added="2024-04-30T19:39:25.205614Z" modified="2024-04-30T19:39:25.205625Z" visited="2024-04-30T19:39:25.205615Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:39:25.205619Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.var/app/io.freetubeapp.FreeTube" added="2024-04-30T19:39:36.252528Z" modified="2024-04-30T19:39:36.252539Z" visited="2024-04-30T19:39:36.252529Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:39:36.252533Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.var/app/io.freetubeapp.FreeTube/config" added="2024-04-30T19:39:37.957233Z" modified="2024-04-30T19:39:37.957244Z" visited="2024-04-30T19:39:37.957235Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:39:37.957238Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.var/app/io.freetubeapp.FreeTube/config/FreeTube" added="2024-04-30T19:39:39.733136Z" modified="2024-04-30T19:39:39.733147Z" visited="2024-04-30T19:39:39.733137Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:39:39.733141Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/imports/FreeTube" added="2024-04-30T19:39:44.358058Z" modified="2024-04-30T19:39:44.358069Z" visited="2024-04-30T19:39:44.358059Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:39:44.358063Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/imports/Spotify/Users" added="2024-04-30T19:40:16.485970Z" modified="2024-04-30T19:40:16.485979Z" visited="2024-04-30T19:40:16.485971Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:40:16.485974Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/imports/Spotify/Users/31ou4rsm5xvadac4rrb4n4l354l4-user" added="2024-04-30T19:40:19.086045Z" modified="2024-04-30T19:40:19.086053Z" visited="2024-04-30T19:40:19.086046Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:40:19.086049Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/imports/Spotify/Apps" added="2024-04-30T19:40:21.890239Z" modified="2024-04-30T19:40:21.890249Z" visited="2024-04-30T19:40:21.890240Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:40:21.890243Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/imports/Spotify/locales" added="2024-04-30T19:40:25.047602Z" modified="2024-04-30T19:40:25.047611Z" visited="2024-04-30T19:40:25.047603Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:40:25.047606Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/imports/prlq1vck.default-default" added="2024-04-30T19:41:31.017959Z" modified="2024-04-30T19:41:31.017971Z" visited="2024-04-30T19:41:31.017961Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:41:31.017964Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.var/app/io.gitlab.librewolf-community" added="2024-04-30T19:41:37.013955Z" modified="2024-04-30T19:41:37.013962Z" visited="2024-04-30T19:41:37.013957Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:41:37.013958Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.var/app/io.gitlab.librewolf-community/.librewolf" added="2024-04-30T19:41:37.980867Z" modified="2024-04-30T19:41:37.980874Z" visited="2024-04-30T19:41:37.980868Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:41:37.980870Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.var/app/io.gitlab.librewolf-community/.librewolf/ed7hfcpq.default-default" added="2024-04-30T19:41:39.201811Z" modified="2024-04-30T19:41:39.201819Z" visited="2024-04-30T19:41:39.201812Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-04-30T19:41:39.201814Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Downloads/OpenRGB_Linux_64_deb_ba57bad3.zip" added="2024-04-30T20:10:44.409389Z" modified="2024-04-30T20:11:22.702035Z" visited="2024-04-30T20:10:44.409390Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-04-30T20:10:44.409392Z" count="1"/>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-04-30T20:10:44.660286Z" count="1"/>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2024-04-30T20:11:22.702034Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Downloads" added="2024-04-30T20:11:28.274581Z" modified="2024-05-06T22:10:21.965256Z" visited="2024-04-30T20:11:28.274586Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa %u&apos;" modified="2024-05-06T22:05:00.430094Z" count="2"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-06T22:10:21.965250Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Downloads/Untitled.Goose.Game.v1.1.4.zip" added="2024-04-30T20:15:12.676424Z" modified="2024-04-30T20:57:11.941774Z" visited="2024-04-30T20:15:12.676427Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-04-30T20:15:12.676432Z" count="1"/>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-04-30T20:15:12.926492Z" count="1"/>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2024-04-30T20:57:11.941770Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Downloads/Forza.Horizon.5.v1.636.732.0.Incl.ALL.DLC.zip" added="2024-04-30T20:17:30.509049Z" modified="2024-04-30T20:17:30.758938Z" visited="2024-04-30T20:17:30.509051Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-04-30T20:17:30.509054Z" count="1"/>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-04-30T20:17:30.758913Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Downloads/Parkitect.v1.8.zip" added="2024-04-30T20:18:19.507964Z" modified="2024-04-30T20:57:31.115799Z" visited="2024-04-30T20:18:19.507966Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-04-30T20:18:19.507972Z" count="1"/>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-04-30T20:18:19.758180Z" count="1"/>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2024-04-30T20:57:31.115798Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Downloads/The.Sims.2.Ultimate.Collection.zip" added="2024-04-30T20:19:19.206414Z" modified="2024-04-30T20:19:19.456734Z" visited="2024-04-30T20:19:19.206416Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-04-30T20:19:19.206419Z" count="1"/>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-04-30T20:19:19.456729Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/pirated-games" added="2024-04-30T20:57:22.734843Z" modified="2024-05-07T21:14:25.515993Z" visited="2024-04-30T20:57:22.734844Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-07T21:14:25.515989Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Downloads/Fedora-Silverblue-ostree-x86_64-40-1.14.iso" added="2024-04-30T23:52:15.443093Z" modified="2024-04-30T23:52:15.693982Z" visited="2024-04-30T23:52:15.443095Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-04-30T23:52:15.443098Z" count="1"/>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-04-30T23:52:15.693977Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/sbaka/B88ABC558ABC11BC/Users" added="2024-05-01T17:17:54.403819Z" modified="2024-05-01T17:17:54.403830Z" visited="2024-05-01T17:17:54.403820Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-01T17:17:54.403824Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/sbaka/B88ABC558ABC11BC/Users/Admin" added="2024-05-01T17:17:56.442011Z" modified="2024-05-01T17:17:56.442025Z" visited="2024-05-01T17:17:56.442013Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-01T17:17:56.442018Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/sbaka/B88ABC558ABC11BC/Users/Admin/AppData" added="2024-05-01T17:17:58.945126Z" modified="2024-05-01T17:17:58.945137Z" visited="2024-05-01T17:17:58.945128Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-01T17:17:58.945131Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/sbaka/B88ABC558ABC11BC/Users/Admin/AppData/Roaming" added="2024-05-01T17:18:00.554647Z" modified="2024-05-01T17:18:00.554658Z" visited="2024-05-01T17:18:00.554649Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-01T17:18:00.554652Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/sbaka/B88ABC558ABC11BC/Users/Admin/AppData/Local" added="2024-05-01T17:18:04.292787Z" modified="2024-05-01T17:18:04.292797Z" visited="2024-05-01T17:18:04.292788Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-01T17:18:04.292791Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Downloads/Sam_Lord&apos;s_Castle_Barbadoes_1949._by_Ted_Hill.jpg" added="2024-05-01T17:22:29.182632Z" modified="2024-05-01T17:22:35.450283Z" visited="2024-05-01T17:22:29.182632Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-05-01T17:22:35.450282Z" count="2"/>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-05-01T17:22:35.438088Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Downloads/In_flight_system_Linux_bootup_flat.jpg" added="2024-05-01T17:24:35.222187Z" modified="2024-05-01T17:24:46.755216Z" visited="2024-05-01T17:24:35.222188Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-05-01T17:24:46.755214Z" count="2"/>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-05-01T17:24:46.737809Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Videos" added="2024-05-01T18:01:35.567825Z" modified="2024-05-01T18:01:35.567835Z" visited="2024-05-01T18:01:35.567827Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-01T18:01:35.567829Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Pictures" added="2024-05-01T18:01:39.033187Z" modified="2024-05-07T20:37:59.608480Z" visited="2024-05-01T18:01:39.033188Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-07T20:37:59.608479Z" count="3"/>
+          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2024-05-07T20:17:16.826776Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Downloads/IMG_1593.HEIC" added="2024-05-01T18:42:02.000709Z" modified="2024-05-01T18:42:02.000712Z" visited="2024-05-01T18:42:02.000710Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/heif"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-01T18:42:02.000710Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Downloads/subz.json" added="2024-05-01T19:31:00.304613Z" modified="2024-05-01T19:31:40.376984Z" visited="2024-05-01T19:31:00.304615Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-05-01T19:31:40.376980Z" count="2"/>
+          <bookmark:application name="io.freetubeapp.FreeTube" exec="&apos;gio open %u&apos;" modified="2024-05-01T19:31:00.555094Z" count="1"/>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-05-01T19:31:40.352912Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Downloads/webapp-manager_1.3.4_all.deb" added="2024-05-01T20:47:25.023774Z" modified="2024-05-01T20:47:25.273871Z" visited="2024-05-01T20:47:25.023776Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-05-01T20:47:25.023779Z" count="1"/>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-05-01T20:47:25.273865Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Downloads/message.txt" added="2024-05-04T20:57:48.723186Z" modified="2024-05-04T20:58:13.320390Z" visited="2024-05-04T20:57:48.723189Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-05-04T20:57:48.723191Z" count="1"/>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-05-04T20:57:48.973550Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-04T20:58:13.320389Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Downloads/321wviudmgvxtiqrk14hj11t8aa2.rbxl" added="2024-05-04T21:18:43.477750Z" modified="2024-05-06T23:18:32.464206Z" visited="2024-05-04T21:18:43.477752Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-05-06T23:18:32.213119Z" count="2"/>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-05-06T23:18:32.464201Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Downloads/MODELFILE" added="2024-05-04T21:46:37.008663Z" modified="2024-05-04T21:48:37.696041Z" visited="2024-05-04T21:46:37.008664Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-05-04T21:48:37.696037Z" count="2"/>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-05-04T21:48:37.670489Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Downloads/cloudflared-linux-amd64.deb" added="2024-05-04T22:38:21.871237Z" modified="2024-05-04T22:38:22.121263Z" visited="2024-05-04T22:38:21.871239Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-05-04T22:38:21.871242Z" count="1"/>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-05-04T22:38:22.121258Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Downloads/hand%204.safetensors" added="2024-05-05T15:32:27.164287Z" modified="2024-05-05T15:32:27.415077Z" visited="2024-05-05T15:32:27.164288Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-05-05T15:32:27.164289Z" count="1"/>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-05-05T15:32:27.415075Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Downloads/newrealityxlAllInOne_Newreality40.safetensors" added="2024-05-05T15:33:36.246188Z" modified="2024-05-05T15:33:36.496873Z" visited="2024-05-05T15:33:36.246188Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-05-05T15:33:36.246190Z" count="1"/>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-05-05T15:33:36.496869Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Desktop" added="2024-05-05T15:33:53.761133Z" modified="2024-05-07T20:37:55.562458Z" visited="2024-05-05T15:33:53.761135Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-07T20:37:55.562453Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/stable-diffusion-webui" added="2024-05-05T15:34:20.007468Z" modified="2024-05-05T15:34:20.007478Z" visited="2024-05-05T15:34:20.007470Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-05T15:34:20.007473Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/stable-diffusion-webui/models" added="2024-05-05T15:34:23.849907Z" modified="2024-05-05T15:34:23.849917Z" visited="2024-05-05T15:34:23.849908Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-05T15:34:23.849911Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/stable-diffusion-webui/models/Stable-diffusion" added="2024-05-05T15:34:28.948926Z" modified="2024-05-05T15:34:28.948944Z" visited="2024-05-05T15:34:28.948927Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-05T15:34:28.948939Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/stable-diffusion-webui/models/Stable-diffusion/newrealityxlAllInOne_Newreality40.safetensors" added="2024-05-05T15:34:53.311340Z" modified="2024-05-05T15:34:53.562841Z" visited="2024-05-05T15:34:53.311341Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-05-05T15:34:53.311347Z" count="1"/>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-05-05T15:34:53.562836Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Downloads/D2Dv140.zip" added="2024-05-06T21:41:36.601994Z" modified="2024-05-06T21:41:49.247326Z" visited="2024-05-06T21:41:36.601995Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-05-06T21:41:36.601999Z" count="1"/>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-05-06T21:41:36.853084Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-06T21:41:48.211147Z" count="1"/>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2024-05-06T21:41:49.247323Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/sbaka/ExFatty/GOOD%20STUFF" added="2024-05-06T21:43:09.787785Z" modified="2024-05-06T22:37:24.089975Z" visited="2024-05-06T21:43:09.787787Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-06T22:37:24.089971Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/sbaka/ExFatty/GOOD%20STUFF/ROMS" added="2024-05-06T21:43:10.921170Z" modified="2024-05-06T21:43:10.921180Z" visited="2024-05-06T21:43:10.921171Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-06T21:43:10.921174Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/sbaka/ExFatty/GOOD%20STUFF/ROMS/ROMS" added="2024-05-06T21:43:12.486070Z" modified="2024-05-06T21:43:12.486131Z" visited="2024-05-06T21:43:12.486073Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-06T21:43:12.486123Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/sbaka/ExFatty/GOOD%20STUFF/ROMS/DOSAPPS" added="2024-05-06T21:43:15.904475Z" modified="2024-05-06T21:43:59.402435Z" visited="2024-05-06T21:43:15.904476Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-06T21:43:59.402431Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/sbaka/ExFatty/GOOD%20STUFF/ROMS/DOSAPPS/GAMES" added="2024-05-06T21:43:37.973510Z" modified="2024-05-06T21:44:07.880167Z" visited="2024-05-06T21:43:37.973512Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-06T21:44:07.880165Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/sbaka/ExFatty/GOOD%20STUFF/ROMS/DOSAPPS/WINDOWS" added="2024-05-06T21:44:05.999424Z" modified="2024-05-06T21:44:05.999434Z" visited="2024-05-06T21:44:05.999426Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-06T21:44:05.999429Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/pirated-games/GAMES" added="2024-05-06T21:46:51.679305Z" modified="2024-05-06T21:46:51.679315Z" visited="2024-05-06T21:46:51.679307Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-06T21:46:51.679309Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/pirated-games/DOSGAMES" added="2024-05-06T21:46:57.583361Z" modified="2024-05-07T21:15:30.940721Z" visited="2024-05-06T21:46:57.583363Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-07T21:15:30.940716Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Downloads/this-is-flipping-insane-flipping.gif" added="2024-05-06T21:50:27.580603Z" modified="2024-05-06T21:50:38.060963Z" visited="2024-05-06T21:50:27.580605Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-05-06T21:50:38.060957Z" count="2"/>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-05-06T21:50:38.036899Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Downloads/boy-kisser-boykisser-typing.gif" added="2024-05-06T21:53:13.797560Z" modified="2024-05-06T21:53:57.129292Z" visited="2024-05-06T21:53:13.797561Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-05-06T21:53:57.129288Z" count="3"/>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-05-06T21:53:57.106428Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/pirated-games/Parkitect.v1.8" added="2024-05-06T21:55:42.462628Z" modified="2024-05-06T21:55:42.462642Z" visited="2024-05-06T21:55:42.462631Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-06T21:55:42.462635Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/pirated-games/Untitled.Goose.Game.v1.1.4" added="2024-05-06T21:55:49.107257Z" modified="2024-05-06T21:55:49.107268Z" visited="2024-05-06T21:55:49.107259Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-06T21:55:49.107262Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Downloads/PPRO_2.0_Ret-NH_UE.zip" added="2024-05-06T21:57:49.710670Z" modified="2024-05-06T22:04:53.372458Z" visited="2024-05-06T21:57:49.710672Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-05-06T21:57:49.710676Z" count="1"/>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-05-06T21:57:49.961694Z" count="1"/>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2024-05-06T22:04:53.372456Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Premiere%20Pro%20CS2%20Serial.txt" added="2024-05-06T21:58:23.123982Z" modified="2024-05-06T22:15:09.681774Z" visited="2024-05-06T21:58:23.123982Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-05-06T21:58:23.123983Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-06T22:15:09.681758Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Premiere%20Pro%202.0/Adobe%20Premiere%20Pro/setup.exe" added="2024-05-06T22:12:00.409565Z" modified="2024-05-06T22:14:20.913649Z" visited="2024-05-06T22:12:00.409567Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-msdownload"/>
+        <bookmark:applications>
+          <bookmark:application name="com.usebottles.bottles" exec="&apos;gio open %u&apos;" modified="2024-05-06T22:14:20.908621Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-05-06T22:14:20.913648Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Premiere%20Pro%20CS2%20and%20Photoshop%20Serial.txt" added="2024-05-06T22:18:45.369746Z" modified="2024-05-06T22:18:45.369749Z" visited="2024-05-06T22:18:45.369747Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-06T22:18:45.369748Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Downloads/PhSp_CS2_English.exe" added="2024-05-06T22:19:16.841199Z" modified="2024-05-06T22:28:09.075521Z" visited="2024-05-06T22:19:16.841200Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-msdownload"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-05-06T22:28:09.075520Z" count="2"/>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-05-06T22:19:17.091234Z" count="1"/>
+          <bookmark:application name="com.usebottles.bottles" exec="&apos;gio open %u&apos;" modified="2024-05-06T22:28:09.070372Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.var/app/com.usebottles.bottles/data/bottles/bottles/Premiere-Pro/drive_c/Program%20Files%20(x86)/Adobe/Adobe%20Photoshop%20CS2/Photoshop.exe" added="2024-05-06T22:30:45.037565Z" modified="2024-05-06T22:30:45.053982Z" visited="2024-05-06T22:30:45.037566Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-msdownload"/>
+        <bookmark:applications>
+          <bookmark:application name="com.usebottles.bottles" exec="&apos;gio open %u&apos;" modified="2024-05-06T22:30:45.037570Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-05-06T22:30:45.053980Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/sbaka/ExFatty/GOOD%20STUFF/Pictures" added="2024-05-06T22:37:25.166125Z" modified="2024-05-06T22:37:25.166127Z" visited="2024-05-06T22:37:25.166126Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-06T22:37:25.166126Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/test-files" added="2024-05-06T22:37:50.962004Z" modified="2024-05-06T22:37:50.962015Z" visited="2024-05-06T22:37:50.962006Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-06T22:37:50.962009Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Sequence%2001.avi" added="2024-05-06T22:41:31.860331Z" modified="2024-05-06T22:41:36.032127Z" visited="2024-05-06T22:41:31.860332Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/vnd.avi"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-06T22:41:36.032125Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/pirated-games/Untitled.Goose.Game.v1.1.4/Untitled.Goose.Game.v1.1.4/Untitled.exe" added="2024-05-06T22:42:49.047083Z" modified="2024-05-06T22:42:49.052269Z" visited="2024-05-06T22:42:49.047084Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-msdownload"/>
+        <bookmark:applications>
+          <bookmark:application name="com.usebottles.bottles" exec="&apos;gio open %u&apos;" modified="2024-05-06T22:42:49.047085Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-05-06T22:42:49.052268Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/pirated-games/Parkitect.v1.8/Parkitect.v1.8/Parkitect.exe" added="2024-05-06T22:42:59.618765Z" modified="2024-05-06T22:42:59.640190Z" visited="2024-05-06T22:42:59.618767Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-msdownload"/>
+        <bookmark:applications>
+          <bookmark:application name="com.usebottles.bottles" exec="&apos;gio open %u&apos;" modified="2024-05-06T22:42:59.618771Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-05-06T22:42:59.640186Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="trash:///" added="2024-05-07T19:23:24.637833Z" modified="2024-05-07T19:23:24.637844Z" visited="2024-05-07T19:23:24.637835Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-07T19:23:24.637838Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.pyenv" added="2024-05-07T19:33:35.438479Z" modified="2024-05-08T15:51:45.558280Z" visited="2024-05-07T19:33:35.438481Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-08T15:51:45.558275Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.cache/pip" added="2024-05-07T19:34:18.058154Z" modified="2024-05-07T19:34:18.058156Z" visited="2024-05-07T19:34:18.058154Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2024-05-07T19:34:18.058155Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Pictures/IMG_1589.HEIC" added="2024-05-07T20:17:47.133162Z" modified="2024-05-07T20:17:47.133171Z" visited="2024-05-07T20:17:47.133163Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/heif"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-07T20:17:47.133166Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Pictures/IMG_1585.HEIC" added="2024-05-07T20:19:56.455023Z" modified="2024-05-07T20:19:56.455033Z" visited="2024-05-07T20:19:56.455025Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/heif"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-07T20:19:56.455028Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Documents" added="2024-05-07T20:37:57.484919Z" modified="2024-05-07T20:37:57.484944Z" visited="2024-05-07T20:37:57.484921Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-07T20:37:57.484924Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Music" added="2024-05-07T20:37:58.587319Z" modified="2024-05-07T20:37:59.109847Z" visited="2024-05-07T20:37:58.587320Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-07T20:37:59.109842Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/sparksammy-openbox" added="2024-05-07T20:38:09.879211Z" modified="2024-05-08T15:51:33.358741Z" visited="2024-05-07T20:38:09.879213Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-08T15:51:33.358736Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/sparksammy-openbox/autostart" added="2024-05-07T20:39:55.204892Z" modified="2024-05-07T21:01:24.116632Z" visited="2024-05-07T20:39:55.204894Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-05-07T21:01:24.098066Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-05-07T21:01:24.116630Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/sparksammy-openbox/installer.sh" added="2024-05-07T20:39:55.204958Z" modified="2024-05-07T21:01:24.116622Z" visited="2024-05-07T20:39:55.204959Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-05-07T21:01:24.098093Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-05-07T21:01:24.116620Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/sparksammy-openbox/LICENSE" added="2024-05-07T20:39:55.204971Z" modified="2024-05-07T20:39:55.225377Z" visited="2024-05-07T20:39:55.204972Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-05-07T20:39:55.204976Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-05-07T20:39:55.225376Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Downloads/ti83p.zip" added="2024-05-07T21:13:39.729543Z" modified="2024-05-07T21:13:49.692535Z" visited="2024-05-07T21:13:39.729543Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-05-07T21:13:39.729544Z" count="1"/>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-05-07T21:13:39.980453Z" count="1"/>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2024-05-07T21:13:49.692528Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/pirated-games/ROMS" added="2024-05-07T21:14:28.841081Z" modified="2024-05-07T21:15:35.691042Z" visited="2024-05-07T21:14:28.841082Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-07T21:15:35.691038Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/Downloads/if-sabrina-was-a-foss-dev.jpg" added="2024-05-08T00:10:39.698422Z" modified="2024-05-08T00:11:57.354186Z" visited="2024-05-08T00:10:39.698424Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-05-08T00:11:57.354184Z" count="3"/>
+          <bookmark:application name="io.gitlab.librewolf-community" exec="&apos;gio open %u&apos;" modified="2024-05-08T00:11:57.349476Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.ssh" added="2024-05-08T15:50:38.850984Z" modified="2024-05-08T15:50:44.682099Z" visited="2024-05-08T15:50:38.850986Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-08T15:50:44.682095Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.ssh/authorized_keys" added="2024-05-08T15:50:46.109956Z" modified="2024-05-08T15:51:02.612104Z" visited="2024-05-08T15:50:46.109957Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-08T15:51:02.612101Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.config" added="2024-05-08T15:51:49.887310Z" modified="2024-05-08T15:51:49.887324Z" visited="2024-05-08T15:51:49.887312Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-08T15:51:49.887316Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.local" added="2024-05-08T15:53:23.160410Z" modified="2024-05-08T15:53:23.160420Z" visited="2024-05-08T15:53:23.160411Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-08T15:53:23.160414Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/.local/share" added="2024-05-08T15:53:26.099953Z" modified="2024-05-08T15:53:26.099964Z" visited="2024-05-08T15:53:26.099955Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-08T15:53:26.099958Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sbaka/dotfiles" added="2024-05-08T15:53:46.183451Z" modified="2024-05-08T15:53:46.183461Z" visited="2024-05-08T15:53:46.183453Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-05-08T15:53:46.183455Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
