@@ -1,2 +1,2 @@
 # sparksammys-dotfiles
-Private Dotfiles
+Public Dotfiles
